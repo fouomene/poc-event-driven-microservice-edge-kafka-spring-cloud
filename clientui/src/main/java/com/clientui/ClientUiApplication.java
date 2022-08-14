@@ -13,8 +13,8 @@ import org.springframework.cloud.openfeign.support.SpringMvcContract;
 import org.springframework.context.annotation.Bean;
 
 @SpringBootApplication
-@EnableFeignClients("com.clientui")
 @EnableDiscoveryClient
+@EnableFeignClients("com.clientui")
 @EnableHystrix
 public class ClientUiApplication {
 
