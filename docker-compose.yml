@@ -1,0 +1,116 @@
+version: "3"
+services:
+  zipkin-server:
+    container_name: zipkin-server
+    image: openzipkin/zipkin
+    ports:
+      - 9411:9411
+    networks:
+      - spring-cloud-network
+  zookeeper:
+    image: 'bitnami/zookeeper:latest'
+    ports:
+      - '2181:2181'
+    environment:
+      - ALLOW_ANONYMOUS_LOGIN=yes
+    networks:
+      - spring-cloud-network
+  kafka:
+      image: 'bitnami/kafka:latest'
+      ports:
+        - '9092:9092'
+      environment:
+        - KAFKA_BROKER_ID=1
+        - KAFKA_CFG_LISTENERS=PLAINTEXT://:9092
+        - KAFKA_CFG_ADVERTISED_LISTENERS=PLAINTEXT://127.0.0.1:9092
+        - KAFKA_CFG_ZOOKEEPER_CONNECT=zookeeper:2181
+        - ALLOW_PLAINTEXT_LISTENER=yes
+      depends_on:
+        - zookeeper
+      networks:
+        - spring-cloud-network
+  config-server:
+      container_name: config-server
+      build:
+        context: config-server
+        dockerfile: Dockerfile
+      image: config-server:latest
+      ports:
+        - 8101:8101
+      networks:
+        - spring-cloud-network
+  eureka-server:
+    container_name: eureka-server
+    build:
+      context: eureka-server
+      dockerfile: Dockerfile
+    image: eureka-server:latest
+    ports:
+      - 8102:8102
+    networks:
+      - spring-cloud-network
+  springcloudgateway-server:
+    container_name: springcloudgateway-server
+    build:
+      context: springcloudgateway-server
+      dockerfile: Dockerfile
+    image: springcloudgateway-server:latest
+    ports:
+      - 8004:8004
+    depends_on:
+      - zipkin-server
+    networks:
+      - spring-cloud-network
+  microservice-produits:
+    container_name: microservice-produits
+    build:
+      context: microservice-produits
+      dockerfile: Dockerfile
+    image: microservice-produits:latest
+    ports:
+      - 8001:8001
+    depends_on:
+      - zipkin-server
+    networks:
+      - spring-cloud-network
+  microservice-commandes-consumer:
+    container_name: microservice-commandes
+    build:
+      context: microservice-commandes-consumer
+      dockerfile: Dockerfile
+    image: microservice-commandes-consumer:latest
+    ports:
+      - 8002:8002
+    depends_on:
+      - zipkin-server
+      - kafka
+    networks:
+      - spring-cloud-network
+  microservice-paiement-producer:
+    container_name: microservice-paiement-producer
+    build:
+      context: microservice-paiement-producer
+      dockerfile: Dockerfile
+    image: microservice-paiement-producer:latest
+    ports:
+      - 8003:8003
+    depends_on:
+      - zipkin-server
+      - kafka
+    networks:
+      - spring-cloud-network
+  microservice-clientui:
+    container_name: microservice-clientui
+    build:
+      context: clientui
+      dockerfile: Dockerfile
+    image: microservice-clientui:latest
+    ports:
+      - 8080:8080
+    depends_on:
+      - zipkin-server
+    networks:
+      - spring-cloud-network
+networks:
+  spring-cloud-network:
+    driver: bridge
