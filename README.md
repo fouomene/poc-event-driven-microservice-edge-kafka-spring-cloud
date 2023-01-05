@@ -1,6 +1,7 @@
 # Exercice 
 [Joel Aholou](https://github.com/ahjoel)
 [Borel Njeunkwe](https://github.com/Lerob28)
+[Jean pierre momo](https://github.com/MomoJeanPierre)
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
 https://www.slideshare.net/fouomene/migration-dune-architecture-microservice-vers-une-architecture-eventdriven-microservice-avec-kafka
