@@ -1,6 +1,7 @@
 # Exercice 
 [Joel Aholou](https://github.com/ahjoel)
 [Borel Njeunkwe](https://github.com/Lerob28)
+[Jean pierre momo](https://github.com/MomoJeanPierre)
 [Serges YAMAKO](https://github.com/yamakoserge)
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
