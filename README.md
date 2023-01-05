@@ -5,6 +5,7 @@
 [Jean pierre momo](https://github.com/MomoJeanPierre)
 [Serges YAMAKO](https://github.com/yamakoserge)
 [Abderrahmane ZAHI](https://github.com/abderrahmanez)
+[Paul MBUYI](https://github.com/PaulMbuyi)
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
 
