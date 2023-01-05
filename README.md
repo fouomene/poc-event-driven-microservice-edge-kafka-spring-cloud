@@ -6,8 +6,8 @@
 [Serges YAMAKO](https://github.com/yamakoserge)
 [Vignon DOSSOU](https://github.com/vignondossou)
 [Abderrahmane ZAHI](https://github.com/abderrahmanez)
+[Paul MBUYI](https://github.com/PaulMbuyi)
 [Farimata DOUARE](https://github.com/Fatim94) 
-
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
 
