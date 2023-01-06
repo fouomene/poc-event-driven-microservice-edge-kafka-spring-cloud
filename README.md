@@ -11,6 +11,7 @@
 [Latifatou IYALI](https://github.com/latifahamraou)
 [paul damien](https://github.com/pauldamien) 
 [LEKEUFACK TAMEZE](https://github.com/Lekeufack-Tameze)
+[OUFFOUET Patrick](https://github.com/ouffouetpatrick)
 
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
