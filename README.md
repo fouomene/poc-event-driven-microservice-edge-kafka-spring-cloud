@@ -9,6 +9,8 @@
 [Paul MBUYI](https://github.com/PaulMbuyi)
 [Farimata DOUARE](https://github.com/Fatim94) 
 [paul damien](https://github.com/pauldamien) 
+[LEKEUFACK TAMEZE](https://github.com/Lekeufack-Tameze)
+
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
 
