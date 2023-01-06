@@ -8,6 +8,7 @@
 [Abderrahmane ZAHI](https://github.com/abderrahmanez)
 [Paul MBUYI](https://github.com/PaulMbuyi)
 [Farimata DOUARE](https://github.com/Fatim94) 
+[paul damien](https://github.com/pauldamien) 
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
 
