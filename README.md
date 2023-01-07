@@ -5,6 +5,7 @@
 [Jean pierre momo](https://github.com/MomoJeanPierre)
 [Serges YAMAKO](https://github.com/yamakoserge)
 [Abderrahmane ZAHI](https://github.com/abderrahmanez)
+[Abderrahmane ZAHI](Mon Deuxième Changement)
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
 
