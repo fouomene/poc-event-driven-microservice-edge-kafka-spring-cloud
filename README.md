@@ -1,6 +1,7 @@
 # Ecrire noms promo 2024
 [Fall Omar](https://github.com/omar218)
-[Oumou Sow](https://github.com/glowriousmou)
+[Warda Boubaker](https://github.com/wardabk
+[Oumou Sow](https://github.com/glowriousmou))
 
 
 
