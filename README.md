@@ -1,9 +1,10 @@
 # Ecrire noms promo 2024
 [Fall Omar](https://github.com/omar218)
-[Warda Boubaker](https://github.com/wardabk
-[Oumou Sow](https://github.com/glowriousmou))
+[Warda Boubaker](https://github.com/wardabk)
+[Oumou Sow](https://github.com/glowriousmou)
+[Vianney YOVO](https://github.com/vianneyyovo)
 
-
+ 
 
 
 
@@ -23,7 +24,6 @@
 [paul damien](https://github.com/pauldamien) 
 [LEKEUFACK TAMEZE](https://github.com/Lekeufack-Tameze)
 [OUFFOUET Patrick](https://github.com/ouffouetpatrick)
-[Vianney YOVO] (https://github.com/vianneyyovo)
 
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
