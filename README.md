@@ -14,6 +14,7 @@
 [paul damien](https://github.com/pauldamien) 
 [LEKEUFACK TAMEZE](https://github.com/Lekeufack-Tameze)
 [OUFFOUET Patrick](https://github.com/ouffouetpatrick)
+[Vianney YOVO] (https://github.com/vianneyyovo)
 
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
