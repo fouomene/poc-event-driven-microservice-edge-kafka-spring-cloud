@@ -3,7 +3,7 @@
 [Warda Boubaker](https://github.com/wardabk)
 [Oumou Sow](https://github.com/glowriousmou)
 [Vianney YOVO](https://github.com/vianneyyovo)
-
+[Sidonie DJUISSI FOHOUO](https://github.com/sidonieGit)
  
 
 
