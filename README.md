@@ -4,8 +4,7 @@
 [Oumou Sow](https://github.com/glowriousmou)
 [Vianney YOVO](https://github.com/vianneyyovo)
 [Fabrice NANKAM](https://github.com/fabricenankam)
-
- 
+[VODOUNNOU Nicodème Sèlomin](https://github.com/NicoSelomin)
 
 
 
