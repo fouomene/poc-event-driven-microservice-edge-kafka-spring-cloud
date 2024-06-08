@@ -1,4 +1,4 @@
-Sidonie sifohouo@gmail.com
+
 # Exercice 
 [Joel Aholou](https://github.com/ahjoel)
 [Borel Njeunkwe](https://github.com/Lerob28)
@@ -14,6 +14,7 @@ Sidonie sifohouo@gmail.com
 [paul damien](https://github.com/pauldamien) 
 [LEKEUFACK TAMEZE](https://github.com/Lekeufack-Tameze)
 [OUFFOUET Patrick](https://github.com/ouffouetpatrick)
+[Sidonie DJUISSI FOHOUO](https://github.com/sidonieGit/)
 
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
