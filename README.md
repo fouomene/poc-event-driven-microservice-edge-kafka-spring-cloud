@@ -1,6 +1,6 @@
 # Ecrire noms promo 2024
 [Fall Omar](https://github.com/omar218)
-[Yvon MENSAH] (https://github.com/Yvon-30)
+[Yvon MENSAH](https://github.com/Yvon-30)
 
 
 
