@@ -1,5 +1,12 @@
+# Ecrire noms promo 2024
+[Fall Omar](https://github.com/omar218)
+
+
+
+
 
 # Exercice 
+
 [Joel Aholou](https://github.com/ahjoel)
 [Borel Njeunkwe](https://github.com/Lerob28)
 [Jean pierre momo](https://github.com/MomoJeanPierre)
