@@ -5,7 +5,7 @@
 [Vianney YOVO](https://github.com/vianneyyovo)
 [Fabrice NANKAM](https://github.com/fabricenankam)
 [VODOUNNOU Nicodème Sèlomin](https://github.com/NicoSelomin)
-
+[Cheick Oumar DIAKITE](https://github.com/Oumar72-HUB)
 
 
 # Exercice 
