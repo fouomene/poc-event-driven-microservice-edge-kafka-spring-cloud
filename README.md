@@ -1,5 +1,6 @@
 # Ecrire noms promo 2024
 [Fall Omar](https://github.com/omar218)
+[Oumou Sow](https://github.com/glowriousmou)
 
 
 
