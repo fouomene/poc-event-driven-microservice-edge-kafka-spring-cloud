@@ -5,6 +5,7 @@
 [Vianney YOVO](https://github.com/vianneyyovo)
 [Fabrice NANKAM](https://github.com/fabricenankam)
 [VODOUNNOU Nicodème Sèlomin](https://github.com/NicoSelomin)
+[Hothia DIAO](https://github.com/hothiadiao)
 
 
 
