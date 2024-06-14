@@ -4,8 +4,9 @@
 [Oumou Sow](https://github.com/glowriousmou)
 [Vianney YOVO](https://github.com/vianneyyovo)
 [Sidonie DJUISSI FOHOUO](https://github.com/sidonieGit)
- 
-
+[Fabrice NANKAM](https://github.com/fabricenankam)
+[VODOUNNOU Nicodème Sèlomin](https://github.com/NicoSelomin)
+[Ramiro Kaffo](https://github.com/Ramirokaffo)
 
 
 # Exercice 
