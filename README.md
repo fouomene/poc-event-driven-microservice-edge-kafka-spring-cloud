@@ -7,6 +7,7 @@
 [Sidonie DJUISSI FOHOUO](https://github.com/sidonieGit)
 [Fabrice NANKAM](https://github.com/fabricenankam)
 [VODOUNNOU Nicodème Sèlomin](https://github.com/NicoSelomin)
+[Hothia DIAO](https://github.com/hothiadiao)
 [FatimaDianfou] (https://github.com/FatimaDianfou)
 [Aicha BENJDIR](https://github.com/AichaBenjdir))
 [Cheick Oumar DIAKITE](https://github.com/Oumar72-HUB)
