@@ -1,4 +1,5 @@
-# Ecrire noms promo 2024
+# Exercice Promo 10000codeurs 2024
+
 [Fall Omar](https://github.com/omar218)
 [Jovy Nedved Monka - Kanda](https://github.com/jovyzabel)
 [Warda Boubaker](https://github.com/wardabk)
@@ -8,7 +9,7 @@
 [Fabrice NANKAM](https://github.com/fabricenankam)
 [VODOUNNOU Nicodème Sèlomin](https://github.com/NicoSelomin)
 [Hothia DIAO](https://github.com/hothiadiao)
-[FatimaDianfou] (https://github.com/FatimaDianfou)
+[FatimaDianfou](https://github.com/FatimaDianfou)
 [Aicha BENJDIR](https://github.com/AichaBenjdir))
 [Cheick Oumar DIAKITE](https://github.com/Oumar72-HUB)
 [AMOUSSOUGBO Anani Serge](https://github.com/SergeCodeur)
@@ -16,7 +17,7 @@
 
 
 
-# Exercice 
+# Exercice Promo 10000codeurs 2023
 
 [Joel Aholou](https://github.com/ahjoel)
 [Borel Njeunkwe](https://github.com/Lerob28)
