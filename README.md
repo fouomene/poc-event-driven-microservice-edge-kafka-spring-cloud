@@ -1,5 +1,6 @@
 # Ecrire noms promo 2024
 [Fall Omar](https://github.com/omar218)
+[Jovy Nedved Monka - Kanda](https://github.com/jovyzabel)
 [Warda Boubaker](https://github.com/wardabk)
 [Oumou Sow](https://github.com/glowriousmou)
 [Vianney YOVO](https://github.com/vianneyyovo)
