@@ -7,9 +7,9 @@
 [Sidonie DJUISSI FOHOUO](https://github.com/sidonieGit)
 [Fabrice NANKAM](https://github.com/fabricenankam)
 [VODOUNNOU Nicodème Sèlomin](https://github.com/NicoSelomin)
+[Cheick Oumar DIAKITE](https://github.com/Oumar72-HUB)
 [AMOUSSOUGBO Anani Serge](https://github.com/SergeCodeur)
 [Ramiro Kaffo](https://github.com/Ramirokaffo)
-
 
 
 # Exercice 
