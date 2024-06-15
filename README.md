@@ -1,12 +1,30 @@
-# Ecrire noms promo 2024
+# Exercice Promo 10000codeurs 2024
+
 [Fall Omar](https://github.com/omar218)
+[Jovy Nedved Monka - Kanda](https://github.com/jovyzabel)
+[Warda Boubaker](https://github.com/wardabk)
+[Oumou Sow](https://github.com/glowriousmou)
+[Vianney YOVO](https://github.com/vianneyyovo)
+[Sidonie DJUISSI FOHOUO](https://github.com/sidonieGit)
+[Fabrice NANKAM](https://github.com/fabricenankam)
+[VODOUNNOU Nicodème Sèlomin](https://github.com/NicoSelomin)
+[ABOUBAKAR](https://github.com/Aaboubakar)
+[Hothia DIAO](https://github.com/hothiadiao)
+[FatimaDianfou](https://github.com/FatimaDianfou)
+[Aicha BENJDIR](https://github.com/AichaBenjdir)
+[Cheick Oumar DIAKITE](https://github.com/Oumar72-HUB)
+[AMOUSSOUGBO Anani Serge](https://github.com/SergeCodeur)
+[Ramiro Kaffo](https://github.com/Ramirokaffo)
+[Rodrigue Nzomo](https://github.com/RodrigueNzomo)
+[Jalil Fonda](https://github.com/JalilGafar)
 [Yvon MENSAH](https://github.com/Yvon-30)
 
 
 
 
+ 
 
-# Exercice 
+# Exercice Promo 10000codeurs 2023
 
 [Joel Aholou](https://github.com/ahjoel)
 [Borel Njeunkwe](https://github.com/Lerob28)
@@ -22,7 +40,6 @@
 [paul damien](https://github.com/pauldamien) 
 [LEKEUFACK TAMEZE](https://github.com/Lekeufack-Tameze)
 [OUFFOUET Patrick](https://github.com/ouffouetpatrick)
-[Vianney YOVO] (https://github.com/vianneyyovo)
 
 # poc-event-driven-microservice-edge-kafka-spring-cloud
 
