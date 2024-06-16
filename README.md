@@ -18,7 +18,7 @@
 [Rodrigue Nzomo](https://github.com/RodrigueNzomo)
 [Jalil Fonda](https://github.com/JalilGafar)
 [Yvon MENSAH](https://github.com/Yvon-30)
-
+[Quirin DOSSOU](https://github.com/QuirinD1)
 
 
 
