@@ -8,6 +8,7 @@
 [Sidonie DJUISSI FOHOUO](https://github.com/sidonieGit)
 [Fabrice NANKAM](https://github.com/fabricenankam)
 [VODOUNNOU Nicodème Sèlomin](https://github.com/NicoSelomin)
+[Moussa TAMBA](https://github.com/tambamoussa)
 [ABOUBAKAR](https://github.com/Aaboubakar)
 [Hothia DIAO](https://github.com/hothiadiao)
 [FatimaDianfou](https://github.com/FatimaDianfou)
@@ -19,6 +20,8 @@
 [Jalil Fonda](https://github.com/JalilGafar)
 [Yvon MENSAH](https://github.com/Yvon-30)
 [Quirin DOSSOU](https://github.com/QuirinD1)
+[Carles De Souza](https://github.com/carlesdesouza)
+
 
 
 
