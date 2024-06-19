@@ -19,6 +19,7 @@
 [Rodrigue Nzomo](https://github.com/RodrigueNzomo)
 [Jalil Fonda](https://github.com/JalilGafar)
 [Yvon MENSAH](https://github.com/Yvon-30)
+[Carles De Souza](https://github.com/carlesdesouza)
 
 
 
