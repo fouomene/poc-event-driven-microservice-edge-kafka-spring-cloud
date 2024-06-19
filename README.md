@@ -19,12 +19,9 @@
 [Rodrigue Nzomo](https://github.com/RodrigueNzomo)
 [Jalil Fonda](https://github.com/JalilGafar)
 [Yvon MENSAH](https://github.com/Yvon-30)
+[Nsengimana François](https://github.com/IMANA47)
 [Quirin DOSSOU](https://github.com/QuirinD1)
 [Carles De Souza](https://github.com/carlesdesouza)
-
-
-
-
  
 
 # Exercice Promo 10000codeurs 2023
