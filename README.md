@@ -22,7 +22,7 @@
 [Nsengimana François](https://github.com/IMANA47)
 [Quirin DOSSOU](https://github.com/QuirinD1)
 [Carles De Souza](https://github.com/carlesdesouza)
- 
+[Djimo Gassama](https://github.com/Gastech99)
 
 # Exercice Promo 10000codeurs 2023
 
@@ -35,15 +35,13 @@
 [Paul MBUYI](https://github.com/PaulMbuyi)
 [Farimata DOUARE](https://github.com/Fatim94)
 [Jean Apotre AIKOU](https://github.com/jeanapotreaikou)
-[Farimata DOUARE](https://github.com/Fatim94) 
+[Farimata DOUARE](https://github.com/Fatim94)
 [Latifatou IYALI](https://github.com/latifahamraou)
-[paul damien](https://github.com/pauldamien) 
+[paul damien](https://github.com/pauldamien)
 [LEKEUFACK TAMEZE](https://github.com/Lekeufack-Tameze)
 [OUFFOUET Patrick](https://github.com/ouffouetpatrick)
 
 # poc-event-driven-microservice-edge-kafka-spring-cloud
-
-
 
 https://www.slideshare.net/fouomene/migration-dune-architecture-microservice-vers-une-architecture-eventdriven-microservice-avec-kafka
 
@@ -57,37 +55,31 @@ Mise en oeuvre de l'architechture Event-Driven Microservice avec Apache Kafka, S
 - **Spring Cloud Bootstrap** (e.g. Bootstrap context and @RefreshScope)
 
 - **Spring Cloud Config** : Se positionne comme serveur de distribution des fichiers de configuration.
-	- **Config Server**
-	- **Config Client**
-	
-- **Spring Cloud Netflix** 
-	- **Discovery** : Permet de découvrir les Microservice sur notre serveur. C’est aussi un outil clé pour la gestion des Microservices.
-		- **Eureka Server**
-		- **Eureka Client**
-	- **Load Balancer**
-		- **Ribbon** (config et dependance commenté) : Équilibrer les requêtes entre plusieurs instances pour éviter une surcharge d’un serveur
-	- **Circuit Breaker** : Définit un ensemble de seuils qui, une fois dépassés, arrêteront l'exécution d'un bloc de code. 
-		- **Hystrix** : Une API pour la résilience d’applications.
-	
+  - **Config Server**
+  - **Config Client**
+- **Spring Cloud Netflix**
+  - **Discovery** : Permet de découvrir les Microservice sur notre serveur. C’est aussi un outil clé pour la gestion des Microservices.
+    - **Eureka Server**
+    - **Eureka Client**
+  - **Load Balancer**
+    - **Ribbon** (config et dependance commenté) : Équilibrer les requêtes entre plusieurs instances pour éviter une surcharge d’un serveur
+  - **Circuit Breaker** : Définit un ensemble de seuils qui, une fois dépassés, arrêteront l'exécution d'un bloc de code.
+    - **Hystrix** : Une API pour la résilience d’applications.
 - **Spring Cloud Routing**
-    - **Gateway** : Le point d’entrée unique pour les API et Microservices.
-	- **OpenFeign** : Faire communiquer (synchrone) les microservices grâce à Feign.
-	
+  - **Gateway** : Le point d’entrée unique pour les API et Microservices.
+  - **OpenFeign** : Faire communiquer (synchrone) les microservices grâce à Feign.
 - **Spring Cloud Load Balancer** : Équilibrer les requêtes entre plusieurs instances pour éviter une surcharge d’un serveur
-	
 - **Spring Cloud Observability**
-    - **Sleuth** : Permet de donner des ID uniques à chaque requête, c'est 
-	- **Zipkin** Client : permet exposer les traces vers Zipkin Server.
-	
+  - **Sleuth** : Permet de donner des ID uniques à chaque requête, c'est
+  - **Zipkin** Client : permet exposer les traces vers Zipkin Server.
 - **Spring Boot Actuator** : expose une API qui donne des informations sur le microservice concerné, mais ne propose pas d'interface graphique.
 
 - **Zipkin Server** : permet de tracer les requêtes de service en service uniquement si ces services intègrent ses dépendances.
 
-
 # Step 1 : Télécharger et Démarrer Zipkin Server
-	curl -sSL https://zipkin.io/quickstart.sh | bash -s
-	java -jar zipkin.jar
 
+    curl -sSL https://zipkin.io/quickstart.sh | bash -s
+    java -jar zipkin.jar
 
 # Step 2 : Télécharger kafka
 
@@ -96,7 +88,6 @@ Download https://kafka.apache.org the latest Kafka release and extract it:
     $tar -xzf kafka_2.13-3.2.0.tgz
 
     $cd kafka_2.13-3.2.0
-
 
 # Step 3 : Démarrer kafka
 
@@ -118,8 +109,7 @@ Open another terminal session and run:
 
 - **Start the Kafka broker service**
 
-
-    $bin/kafka-server-start.sh config/server.properties
+  $bin/kafka-server-start.sh config/server.properties
 
 or window
 
@@ -128,8 +118,11 @@ or window
 Once all services have successfully launched, you will have a basic Kafka environment running and ready to use.
 
 # Step 4 : Démarrer les différents microservices.
-	mvn spring-boot:run
+
+    mvn spring-boot:run
+
 Ordre recommandé
+
 - config-server
 - eureka-server
 - springcloudgateway-server
@@ -137,7 +130,6 @@ Ordre recommandé
 - microservice-commandes-consumer
 - microservice-paiement-producer
 - clientui
-
 
 Eureka Server
 ![alt text](https://fouomene.com/eureka-server.jpg)
@@ -147,8 +139,4 @@ Zipkin Server
 ![alt text](https://fouomene.com/zipkin-kafka2.jpg)
 
 Microservice ClientUI
-![alt text](https://fouomene.com/minicommerce.jpg) 
-
-
-
-
+![alt text](https://fouomene.com/minicommerce.jpg)
